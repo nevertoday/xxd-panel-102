@@ -369,9 +369,9 @@ XXD is Xiaoxiaodong's abbreviated brand name. Created and maintained by [@xiaoxi
 
 ## Support and membership
 
-### Xiaoxiaodong Commander · General Command Skill · CNY 102
+### Xiaoxiaodong Commander · General Command Skill · CNY 100
 
-A one-time CNY 102 purchase unlocks this suite's General Command Skill (`xxd-panel-all`) for roster control, recommendations, Soldier dispatch, and batch coordination. Include “General Command Skill” in your WeChat message.
+A one-time CNY 100 purchase unlocks this suite's General Command Skill (`xxd-panel-all`) for roster control, recommendations, Soldier dispatch, and batch coordination. Include “General Command Skill” in your WeChat message.
 
 <!-- xxd-panel-command-system:start -->
 **Your purchase unlocks the General Skill that commands the whole roster**
