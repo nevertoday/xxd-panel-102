@@ -45,6 +45,15 @@ The eight works above comprise four 16:9 landscape left–right samples and four
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -63,22 +72,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | The object's defining features, pose, and relationships remain intact, so the design still maps immediately to the current photograph |
 | **Where it works** | Brand content, exhibition and architectural posters, portrait or pet keepsakes, covers, social content, and device wallpapers |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-identify defining contour, structure, and pose → remove secondary detail → compress into a few geometric shapes and flat colour fields → tune positive–negative shape, visual weight, and whitespace rhythm → derive bright healing colour from the source → finish with a restrained title, number, or micro-annotation
-```
-
-## Recognisable finished traits
-
-- A few geometric shapes, clear contours, and fine-line relationships preserve the subject's defining identity and pose.
-- Visual centre of gravity, hierarchy, positive–negative shape, and image–text balance make the composition quiet rather than empty.
-- An off-white or intelligently matched pale ground leaves the subject resting like a distilled memory specimen.
-- Bright, pure, warm source-derived colour fields remain distinct but gentle; avoid muddy grey, darkness, fluorescence, and cheap candy colour.
-- Titles, numbers, and micro-annotations are sparse and refined, with the character of a design studio or exhibition poster; avoid realism, cartoons, plastic texture, and template decoration.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-102-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
