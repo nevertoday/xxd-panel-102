@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 102｜Healing Geometry Journal: distils the most memorable shape, structure and pose of a photo into a calm geometric, flat design — simple geometric forms, flat colour blocks, clear outlines and fine lines that keep only the key identifying features, placed centred or slightly off-centre like a specimen on an off-white or very pale background with generous whitespace, careful positive and negative space and visual weight, bright colours from the photo lifted into a clear, soft, soothing palette, and a few restrained editorial labels such as a title, number or micro note in the manner of studio, architecture or exhibition posters. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-102 or asks for calm geometric, flat, minimalist poster or soothing geometric illustration from a photo.",
+  "short_description": "治愈几何志：把照片提炼成清透柔和的几何扁平图形，安放在大片留白里",
+  "zh-CN": {
+    "name": "治愈几何志",
+    "tagline": "把照片提炼成一枚清透、安静、带点生命力的几何图形。",
+    "look": "只留下主体最好认的轮廓和结构，用简洁的几何形、扁平色块、清晰轮廓和细线重新拼出来，复杂细节都不要。主体居中或略偏，像一枚被整理好的记忆标本，放在米白或很浅的底色上，四周大片留白，正负形和重心安排得很稳。颜色取自照片最亮最鲜的部分，提高明度和纯净度，变得清透、柔和、温暖。可以加一个简短标题、编号或很小的注释，像建筑海报或展览海报里的小标注。",
+    "traits": ["核心轮廓提炼", "几何扁平色块", "清透取色", "严谨正负形", "克制编辑标注", "大面积留白"],
+    "good": [
+      "主体单一、轮廓明确的照片：一座灯塔、一把椅子、一只鸟、一个花瓶",
+      "形状干净的建筑或物件：拱门、楼梯、窗户、一辆自行车",
+      "颜色明亮清爽的照片：海边、晴天的白墙、水果"
+    ],
+    "poor": [
+      "人多、元素多的热闹场景，会被大幅删减，只剩一个核心形状",
+      "需要保留神态、长相或纹理细节的照片：肖像、毛发、织物",
+      "想要写实、卡通、强烈情绪或丰富装饰的需求"
+    ]
+  },
+  "en": {
+    "name": "Healing Geometry Journal",
+    "tagline": "Distils a photo into one calm, clear, quietly lively geometric figure.",
+    "look": "Only the subject's most recognisable outline and structure survive, rebuilt from simple geometric shapes, flat colour blocks, clean outlines and fine lines, with all the busy detail dropped. The subject sits centred or a little off-centre like a neatly mounted memory specimen on an off-white or very pale ground, with wide whitespace and carefully balanced positive and negative space. Colours come from the brightest, freshest parts of the photo, lifted in lightness and purity into something clear, soft and warm. A short title, number or tiny note may appear, like a small label on an architecture or exhibition poster.",
+    "traits": ["Core outline", "Flat geometric blocks", "Clear bright colours", "Precise positive and negative space", "Restrained editorial labels", "Wide whitespace"],
+    "good": [
+      "Photos with one subject and a clear outline: a lighthouse, a chair, a bird, a vase",
+      "Buildings or objects with clean shapes: an archway, a staircase, a window, a bicycle",
+      "Bright, fresh-coloured photos: the seaside, a white wall on a sunny day, fruit"
+    ],
+    "poor": [
+      "Busy scenes full of people or things, which get cut down to one core shape",
+      "Photos that need expression, likeness or texture: portraits, fur, fabric",
+      "Requests for realism, cartoons, strong drama or rich decoration"
+    ]
+  },
+  "ja": {
+    "name": "癒やしの幾何学誌",
+    "tagline": "写真を、澄んで静かな、ほのかに生き生きとした幾何学の図形に凝縮します。",
+    "look": "主役のいちばんわかりやすい輪郭と構造だけを残し、単純な幾何形、平らな色面、くっきりした輪郭、細い線で組み直します。細かい部分はすべて省きます。主役は中央かやや外れた位置に、整えられた記憶の標本のように置かれ、生成りやごく淡い地色の上に広い余白をとって、図と地のバランスを丁寧に整えます。色は写真のいちばん明るく新鮮な部分から取り、明度と純度を上げて、澄んで柔らかく温かな色にします。短いタイトルや番号、ごく小さな注記が、建築や展覧会のポスターの小さなラベルのように添えられることもあります。",
+    "traits": ["核となる輪郭", "幾何学的な平面色", "澄んだ明るい色", "精密な図と地", "控えめなエディトリアル注記", "広い余白"],
+    "good": [
+      "主役がひとつで輪郭がはっきりした写真：灯台、椅子、一羽の鳥、花瓶",
+      "形のきれいな建物や物：アーチ、階段、窓、自転車",
+      "色の明るく爽やかな写真：海辺、晴れた日の白い壁、果物"
+    ],
+    "poor": [
+      "人や物が多いにぎやかな場面（大きく省かれ、核となる形ひとつだけになります）",
+      "表情や似姿、質感を残したい写真：ポートレート、毛並み、布地",
+      "写実、カートゥーン、強い感情表現、豊かな装飾を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "치유 기하학 저널",
+    "tagline": "사진을 맑고 고요하며 은은하게 생기 있는 기하 도형 하나로 정제합니다.",
+    "look": "주인공의 가장 알아보기 쉬운 윤곽과 구조만 남기고, 단순한 기하 도형, 평평한 색면, 또렷한 윤곽선, 가는 선으로 다시 짭니다. 복잡한 세부는 모두 덜어냅니다. 주인공은 가운데나 살짝 비켜난 자리에 잘 정리된 기억의 표본처럼 놓이고, 미색이나 아주 연한 바탕 위에 넓은 여백을 두며 양형과 음형, 무게중심을 차분히 맞춥니다. 색은 사진에서 가장 밝고 싱그러운 부분에서 가져와 명도와 순도를 높여 맑고 부드럽고 따뜻하게 만듭니다. 짧은 제목, 번호, 아주 작은 주석이 건축이나 전시 포스터의 작은 라벨처럼 들어갈 수 있습니다.",
+    "traits": ["핵심 윤곽", "기하 평면 색면", "맑고 밝은 색", "정밀한 양형·음형", "절제된 편집 라벨", "넓은 여백"],
+    "good": [
+      "주인공이 하나이고 윤곽이 뚜렷한 사진: 등대, 의자, 새 한 마리, 꽃병",
+      "형태가 깔끔한 건물이나 사물: 아치, 계단, 창문, 자전거",
+      "색이 밝고 산뜻한 사진: 바닷가, 맑은 날의 흰 벽, 과일"
+    ],
+    "poor": [
+      "사람과 물건이 많은 북적이는 장면(크게 덜어내 핵심 형태 하나만 남습니다)",
+      "표정, 닮음, 질감을 살려야 하는 사진: 인물 사진, 털, 직물",
+      "사실적 표현, 카툰, 강한 감정, 풍부한 장식을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مجلة هندسة السكينة",
+    "tagline": "يقطّر الصورة في شكل هندسي واحد هادئ وصافٍ، فيه حيوية خافتة.",
+    "look": "لا يبقى إلا أوضح محيط للعنصر وبنيته، ويُعاد بناؤهما بأشكال هندسية بسيطة ومساحات لونية مسطحة وحواف واضحة وخطوط رفيعة، مع التخلي عن كل التفاصيل المزدحمة. يستقر العنصر في الوسط أو منزاحاً قليلاً، كعيّنة ذكرى مثبتة بعناية على أرضية بيضاء مائلة إلى الكريمي أو شديدة الفتوح، مع فراغ واسع وتوازن مدروس بين الشكل والفراغ. تُؤخذ الألوان من أزهى أجزاء الصورة وأنضرها، وتُرفع إضاءتها ونقاؤها لتصبح صافية وناعمة ودافئة. قد يظهر عنوان قصير أو رقم أو ملاحظة صغيرة جداً، كبطاقة صغيرة على ملصق معماري أو ملصق معرض.",
+    "traits": ["محيط جوهري", "كتل هندسية مسطحة", "ألوان صافية زاهية", "توازن دقيق بين الشكل والفراغ", "تسميات تحريرية متحفظة", "فراغ واسع"],
+    "good": [
+      "صور فيها عنصر واحد بمحيط واضح: منارة، كرسي، طائر، مزهرية",
+      "مبانٍ أو أشياء بأشكال نظيفة: قوس، درج، نافذة، دراجة",
+      "صور زاهية منعشة الألوان: شاطئ البحر، جدار أبيض في يوم مشمس، فاكهة"
+    ],
+    "poor": [
+      "المشاهد المزدحمة بالناس أو الأشياء، إذ تُختصر إلى شكل جوهري واحد",
+      "صور تحتاج إلى التعبير أو الشبه أو الملمس: الصور الشخصية، الفرو، الأقمشة",
+      "طلب الواقعية أو الكرتون أو الدراما القوية أو الزخرفة الغنية"
+    ]
+  }
+}

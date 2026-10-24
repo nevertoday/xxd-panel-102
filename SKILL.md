@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-102
-description: "Create XXD Panel 102 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-102 or requests the exact Panel 102 style."
+description: "XXD Panel 102｜Healing Geometry Journal: distils the most memorable shape, structure and pose of a photo into a calm geometric, flat design — simple geometric forms, flat colour blocks, clear outlines and fine lines that keep only the key identifying features, placed centred or slightly off-centre like a specimen on an off-white or very pale background with generous whitespace, careful positive and negative space and visual weight, bright colours from the photo lifted into a clear, soft, soothing palette, and a few restrained editorial labels such as a title, number or micro note in the manner of studio, architecture or exhibition posters. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-102 or asks for calm geometric, flat, minimalist poster or soothing geometric illustration from a photo."
 ---
 
 # XXD Panel 102
